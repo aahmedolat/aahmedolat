@@ -12,8 +12,8 @@
 
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
-- **Active Directory** IAM Simulation - EmiratesGas [**View Project**](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas)
-- **AWS** IAM Cloud Security Implimentation - EmiratesGas [**View Project**](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM)
+- **Active Directory** IAM Simulation - EmiratesGas → [**View Project**](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas)
+- **AWS** IAM Cloud Security Implimentation - EmiratesGas → [**View Project**](https://github.com/aahmedolat/AWS-Cloud-Security-Implementation-Project---EmiratesGas-IAM)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
